@@ -1,0 +1,8 @@
+print('============== Seja Bem-Vindo ao Python! ================')
+print('='*30)
+nome = input('Qual e o seu nome? ')
+idade = input('Quantos anos tens? ')
+print('='*30)
+print('Ola', nome, 'seja bem-vindo!')
+print(nome, 'tem', idade, 'anos')
+print('='*30)
